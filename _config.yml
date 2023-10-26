@@ -1,12 +1,12 @@
-title: Papa Bondan
+title: Muhammad Arun Pradana
 markdown: kramdown
-url: ""
+url: "https://muhammadarunpradana32.github.io/"
 baseurl: "/"
 
 # for atom feed
 author:
-  name: Bondan Murdani Soleh
-  email: murdani.bondan.bm@gmail.com
+  name: Muhammad Arun Pradana
+  email: 
 
 plugins:
   - jemoji
